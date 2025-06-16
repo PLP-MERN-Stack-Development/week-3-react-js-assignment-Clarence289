@@ -2,8 +2,9 @@
 # React Task Manager with API Integration
 
 A modern, responsive React application that combines task management with API integration. Built with React, Vite, and Tailwind CSS, this application demonstrates best practices in component architecture, state management, and API integration.
+![Screenshot (16)](https://github.com/user-attachments/assets/1eb6ddfb-8c61-4639-8a61-a0916c4bdc14)
 
-![Task Manager Screenshot](screenshot.png)
+![Task Manager Screenshot] 
 
 ## 🌟 Features
 
@@ -36,8 +37,8 @@ A modern, responsive React application that combines task management with API in
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd react-task-manager
+git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Clarence289.git
+cd week-3-react-js-assignment
 ```
 
 2. Install dependencies:
