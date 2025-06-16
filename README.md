@@ -4,7 +4,7 @@
 A modern, responsive React application that combines task management with API integration. Built with React, Vite, and Tailwind CSS, this application demonstrates best practices in component architecture, state management, and API integration.
 ![Screenshot (16)](https://github.com/user-attachments/assets/1eb6ddfb-8c61-4639-8a61-a0916c4bdc14)
 
-![Task Manager Screenshot] 
+
 
 ## 🌟 Features
 
